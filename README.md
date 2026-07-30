@@ -1,6 +1,7 @@
 ## Hi there 👋
 <p align="left">
 
+[![Stats](https://github-stats-extended.vercel.app/api?username=EmirOven)](https://github.com/stats-organization/github-stats-extended)
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
