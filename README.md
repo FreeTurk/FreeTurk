@@ -4,7 +4,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EmirOven&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=EmirOven&include_all_commits=true&theme=dracula)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EmirOven&langs_count=6&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=EmirOven&langs_count=6&theme=dracula)
 
-<!p>
+</p>
 <!--
 **FreeTurk/FreeTurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
